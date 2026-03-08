@@ -1,2 +1,4 @@
 I'm telling you dear friends that working git the only way to save yourself in 
 this cruel world
+
+I would like to convert my cv to a webpage instead of textfile
