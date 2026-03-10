@@ -1,5 +1,9 @@
 add new line
 I am trying to add new line to my page
 
+<<<<<<< HEAD
 
 this new line was added directly on the remote
+=======
+new stuffs added locally
+>>>>>>> a477f55 (my modified code)
